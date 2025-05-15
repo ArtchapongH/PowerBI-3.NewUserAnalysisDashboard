@@ -3,7 +3,9 @@
 
 ### Descriptions
 
-- This dashboard helps company to know how many customers are new customers, lost customer or returning customer during specific period of time.  
+- This dashboard helps company to know how many customers are new customers, lost customer or returning customer during specific period of time.
+   
+    ![Image](https://github.com/user-attachments/assets/6cbc9047-c0d5-4745-b65a-24668c1b7bd2)
 
 
   ** In case we considering churn month is 3 months (can be choosen by user)**
