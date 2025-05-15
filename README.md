@@ -1,4 +1,4 @@
-# New User Analysis Dashboard
+# Customer Analysis Dashboard
 
 
 ### Descriptions
